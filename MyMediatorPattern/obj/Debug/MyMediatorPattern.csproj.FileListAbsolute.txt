@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\bin\Debug\MyMediatorPattern.exe
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\bin\Debug\MyMediatorPattern.pdb
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\obj\Debug\MyMediatorPattern.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\obj\Debug\MyMediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\obj\Debug\MyMediatorPattern.exe
+C:\Users\ben\source\repos\MyMediatorPattern\MyMediatorPattern\obj\Debug\MyMediatorPattern.pdb
